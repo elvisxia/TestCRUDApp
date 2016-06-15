@@ -1,7 +1,7 @@
 ﻿/// <reference path="APIUtility.js" />
 (function () {
     "use strict"
-    var serverPath = "YourServerPath";
+    var serverPath = "You path";
     window.onload = function()
     {
         //get all the status list
